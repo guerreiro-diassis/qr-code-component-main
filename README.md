@@ -2,7 +2,7 @@
 
 Essa é uma solução do [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Um desafio proposto pelo Frontend Mentor, que me ajudou a voltar a praticar minhas habilidades com o código, construindo projetos realistas.
 
-## Table of contents
+## Tabela de conteúdos
 
 - [Geral](#geral)
   - [Captura de Tela](#captura-de-tela)
