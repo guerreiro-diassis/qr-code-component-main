@@ -11,8 +11,8 @@ Essa é uma solução do [QR code component challenge on Frontend Mentor](https:
   - [O que eu aprendi](#o-que-eu-aprendi)
   - [Desenvolvimento continuado](#desenvolvimento-continuado)
   - [Pesquisas](#pesquisas)
-- [Author](#autor)
-- [Acknowledgments](#acknowledgments)
+- [Autor](#autor)
+
 
 ## Geral
 
